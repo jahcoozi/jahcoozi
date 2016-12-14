@@ -1,0 +1,221 @@
+/* === global rules open === */
+
+
+/* assets imports */
+
+
+/* positions for all */
+
+.top_em_spacing {
+  background-color: pink;
+  min-height: 30px;
+  margin: 10px;
+  display: block;
+}
+
+.top_inner_elm_spacing {
+  background-color: purple;
+  min-height: 10px;
+  margin: 10px;
+  display: block;
+}
+
+.center_elm {
+  margin: 0 auto;
+}
+
+.float_left {
+  float: left;
+}
+
+.float_right {
+  float: right;
+}
+
+.clear_floats {
+  clear: both;
+}
+
+
+/* assets */
+
+p {
+  margin: 5px;
+}
+
+.btn_style {
+  margin: 5px;
+}
+
+.btn_text_style {}
+
+
+/* === global rules close === */
+
+
+/* === sections rules open === */
+
+
+/* all postions and sizes that deals with section 
+its section will be placed with in 
+for easy extraction*/
+
+
+/* social_media_section section */
+
+#social_media_section {
+  width: 50%;
+}
+
+#social_media_section_1 {
+  background-image: url("https://drive.google.com/uc?id=0B7AcKIyfvlBcRU81aHBieWEtSnM");
+  background-position-x: 4px;
+  background-position-y: -3px;
+  background-repeat: no-repeat;
+  background-size: 160px auto;
+  display: block;
+  float: left;
+  height: 143px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 4px;
+  position: relative;
+  width: 156px;
+}
+
+
+/* footer section */
+
+#social_media_section_2 {
+  background-image: url("https://drive.google.com/uc?id=0B7AcKIyfvlBcTTZ2MnRpODEzOHM");
+  background-position-x: 16px;
+  background-position-y: -12px;
+  background-repeat: no-repeat;
+  background-size: 120px auto;
+  display: block;
+  float: left;
+  height: 152px;
+  position: relative;
+  width: 150px;
+}
+
+
+/* center_section_1 containter */
+#center_section_1{
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	width: 1640px;
+}
+
+/* book section */
+
+#book_section {
+	background-color: green;
+	padding-bottom: 0;
+	padding-left: 36px;
+	padding-right: 0;
+	padding-top: 0;
+	width: 35%;
+}
+
+#book_section_nav {}
+
+#book_section_btn_1 {
+  background-image: url("https://drive.google.com/uc?id=0B7AcKIyfvlBcOXlWZ2JhSG9rZkk");
+  background-size: 160px auto;
+  background-repeat: no-repeat;
+  display: block;
+  position: relative;
+  width: 160px;
+  height: 72px;
+  float: left;
+}
+
+#book_section_btn_2 {
+  background-image: url("https://drive.google.com/uc?id=0B7AcKIyfvlBcaklqOXB6WHA0dG8");
+  background-size: 160px auto;
+  background-repeat: no-repeat;
+  display: block;
+  position: relative;
+  width: 160px;
+  height: 72px;
+  float: left;
+}
+
+#book_section_btn_3 {
+  background-image: url("https://drive.google.com/uc?id=0B7AcKIyfvlBcOE9Hek10NmdNRGs");
+  background-size: 160px auto;
+  background-repeat: no-repeat;
+  display: block;
+  position: relative;
+  width: 160px;
+  height: 72px;
+  float: left;
+}
+
+.book_section_nav_btn {}
+
+#book_section_book {}
+
+#book_section_nav {}
+
+#book_section_body {
+  background-color: yellow;
+  background-image: url("https://drive.google.com/uc?id=0B7AcKIyfvlBcTVRDYzlsSTdJNHc");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: block;
+  height: 280px;
+  min-height: 190px !important;
+  padding-bottom: 52px;
+  padding-left: 26px;
+  padding-right: 20px;
+  padding-top: 17px;
+  position: relative;
+  width: 84%;
+}
+
+#book_section_outter_body {
+  background-color: purple;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-top: 3px;
+  width: 90%;
+}
+
+#class_book_content {
+  background-color: red;
+  width: 100%;
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: relative //so you dont lose the positioning of your text
+}
+
+
+/* call to action section */
+
+#call_to_action_section {}
+
+#call_to_action_section h2 {
+  color: red!important;
+  font-size: 22px!important;
+  font-weight: bold;
+}
+
+#call_to_action_section h2 .big_text {
+  color: purple!important;
+  font-size: 52px!important;
+  font-weight: bold;
+}
+
+#call_to_action_section_btn_1 {}
+
+#call_to_action_section_btn_2 {}
+
+
+/* === sections rules close === */
