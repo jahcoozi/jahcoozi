@@ -1,0 +1,17 @@
+{
+  "name": "jahcoozi",
+  "homepage": "https://github.com/jahcoozi/jahcoozi",
+  "authors": [
+    "jahcoozi"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
