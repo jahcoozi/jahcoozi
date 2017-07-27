@@ -1,0 +1,20 @@
+{
+  "name": "living_style_guide",
+  "homepage": "https://github.com/jahcoozi/jahcoozi",
+  "description": "living style guide and assets for project base",
+  "main": "living_style_guide",
+  "keywords": [
+    "living_style_guide"
+  ],
+  "authors": [
+    "jahcoozi"
+  ],
+  "license": "n",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
