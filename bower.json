@@ -1,12 +1,12 @@
 {
-  "name": "jahcoozi",
-  "homepage": "https://github.com/jahcoozi/jahcoozi",
+  "name": "jahcoo.com",
   "authors": [
-    "jahcoozi"
+    "jahcoo"
   ],
   "description": "",
   "main": "",
   "license": "MIT",
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
