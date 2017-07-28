@@ -1,0 +1,24 @@
+{
+  "name": "jahcoozi_lib",
+  "homepage": "https://github.com/jahcoozi/jahcoozi",
+  "authors": [
+    "jahcoozi"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-swipe": "^0.2.1",
+    "bootstrap": "v4.0.0-alpha.6",
+    "phaser": "^2.6.2",
+    "swiper": "^3.4.2"
+  }
+}
